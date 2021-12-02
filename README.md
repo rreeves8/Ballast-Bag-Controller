@@ -1,1 +1,1 @@
-ballast bag controller for wake surfing
+ballast bag controller for wake surfing. For switching waves mid run. 
